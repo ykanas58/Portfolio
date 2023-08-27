@@ -1,0 +1,38 @@
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 32.3%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.clearfix{
+    width: 1249px;
+margin-left: 144px;
+}
+
+.img-container2 {
+    float: left;
+    width: 32.3%;
+    padding: 5px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .clearfix2{
+      width: 1249px;
+  margin-left: 144px;
+  }
+</style>
